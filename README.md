@@ -1,4 +1,5 @@
 Simple YouTube Downloader
+
 A streamlined desktop application that makes downloading YouTube videos simple. This tool wraps yt-dlp functionality in an easy-to-use interface, allowing you to download videos as either MP3 audio or MP4 video files with minimal setup.
 Features
 
