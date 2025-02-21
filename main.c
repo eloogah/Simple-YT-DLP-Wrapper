@@ -5,10 +5,9 @@
 int main() {
     char input[1024];
     int choice;
-    char url[512];
-    printf("[1 url]To mp3\n[2 url]To mp4\n[3]Exit\n");
+    printf("[1 <url>]To mp3\n[2 <url>]To mp4\n[3]Exit\n");
    
-    while(1){
+    while(1) {
     fgets(input, sizeof(input), stdin);
     choice = input[0] - '0';
     
@@ -63,7 +62,7 @@ int main() {
     } else {
         printf("No URL provided\n");
     }
-    
-    return 0;
+
 }
+return 0;
 }
