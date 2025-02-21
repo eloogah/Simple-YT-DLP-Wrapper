@@ -60,5 +60,6 @@ License
 MIT License - feel free to modify and distribute as needed.
 Contributing
 Feel free to open issues or submit pull requests if you have suggestions for improvements.
+
 Disclaimer
 This tool is for personal use only. Please respect YouTube's terms of service and copyright laws when downloading content.
